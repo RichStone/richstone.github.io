@@ -18,12 +18,12 @@ title_separator: "|"
 name: "Richard Rich Steinmetz"
 email: "steinmetz.richard [- @ -] outlook.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog about data engineering, data in general, text analysis, text mining,
+  A blog about data engineering, web-scraping, data in general, text analysis, text mining,
   data for social good purpose, machine learning, autonomous driving
   and software development.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://richstone.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -58,7 +58,7 @@ defaults:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "your-disqus-shortname"
+    shortname: "datagooide"
 
 author:
   name   : "Richard Rich Steinmetz"
