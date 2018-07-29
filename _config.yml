@@ -13,12 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: "{ datagoodie }"
+title_separator: "|"
+name: "Richard Rich Steinmetz"
+email: "steinmetz.richard [- @ -] outlook.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A blog about data engineering, data in general, text analysis, text mining,
+  data for social good purpose, machine learning, autonomous driving
+  and software development.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -29,6 +32,48 @@ markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "your-disqus-shortname"
+
+author:
+  name   : "Richard Rich Steinmetz"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  email  : "steinmetz.richard [- @ -] outlook.com"
+  uri    : "http://datagoodie.com"
+  home   : "/about/" # null (default), "absolute or relative url to link to author home"
+
+search: true
+
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
+include: ["_pages"]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
