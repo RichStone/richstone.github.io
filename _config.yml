@@ -35,20 +35,15 @@ plugins:
   - jekyll-feed
 
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
-
-defaults:
-  # _pages
   - scope:
       path: ""
       type: pages
@@ -61,6 +56,14 @@ comments:
   disqus:
     shortname: "datagooide"
 
+social:
+  type:  # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/stonerichio"
+    - "https://www.facebook.com/profile.php?id=100008682485866"
+    - "https://www.linkedin.com/in/richard-steinmetz/"
+
 author:
   name   : "Richard Rich Steinmetz"
   avatar : "/assets/images/bio-photo.jpg"
@@ -70,6 +73,7 @@ author:
   home   : "/about/" # null (default), "absolute or relative url to link to author home"
 
 search: true
+search_full_content: true
 
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
