@@ -23,10 +23,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   and software development.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://richstone.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://datagoodie.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "RichStone/richstone.github.io"
-twitter_username: jekyllrb
-github_username:  jekyll
+
+twitter_username: richstoneio
+github_username:  RichStone
+
 
 # Build settings
 markdown: kramdown
@@ -63,14 +65,16 @@ social:
     - "https://twitter.com/stonerichio"
     - "https://www.facebook.com/profile.php?id=100008682485866"
     - "https://www.linkedin.com/in/richard-steinmetz/"
+    - "https://plus.google.com/113275668565108530267"
 
 author:
   name   : "Richard Rich Steinmetz"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Exploring ways to use data for a good purpose."
   email  : "steinmetz.richard [- @ -] outlook.com"
-  uri    : "http://datagoodie.com"
   home   : "/about/" # null (default), "absolute or relative url to link to author home"
+
+teaser: /assets/images/bio-photo.jpg
 
 search: true
 search_full_content: true
