@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
-date:   2018-07-28 00:49:51 +0200
+title: "Welcome to Jekyll!"
+date: 2018-07-28
 categories: test template
 permalink: blog/test
 published: false
