@@ -1,7 +1,5 @@
 ---
-
 permalink: about
-
 ---
 
 Hey folks!
