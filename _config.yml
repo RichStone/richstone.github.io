@@ -70,7 +70,7 @@ social:
 author:
   name   : "Richard Rich Steinmetz"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Exploring ways to use data for a good purpose."
+  bio    : "Exploring the Universe of Data."
   email  : "steinmetz.richard [- @ -] outlook.com"
   home   : "/about/" # null (default), "absolute or relative url to link to author home"
 

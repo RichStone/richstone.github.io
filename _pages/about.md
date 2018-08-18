@@ -25,3 +25,4 @@ Related to my personal projects in the next months, you will find the following 
 Feel free to get in touch if you have any questions or comments and enjoy the bits and bytes provided here :) And of course don’t forget to join the newsletter:
 {: .text-justify}
 
+{% include mail-chimp.html %}

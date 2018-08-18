@@ -61,4 +61,6 @@ After thinking very hard where else I could store the database, I found a soluti
 In the end of the story everything went quite OK. I experienced all kind of hardware limitations and got a feeling of what Big Data is. I learned the power of controlling and cleaning the data and the necessity of serious research before diving into big projects. Not to speak of the improvement of my technical skills and the achievement of getting a huge powerful database together. So huge and powerful, that nobody could have thought about one tiny detail: Seemingly, you need a much stronger computational machine than my MacOS Pro. Unless you want just run aggregation functions on it like count() and mean().
 {: .text-justify}
 
-![Magic.](/assets/images/rise-and-fall/tragic-fall.jpg)
+![Fall.](/assets/images/rise-and-fall/tragic-fall.jpg)
+
+{% include mail-chimp.html %}

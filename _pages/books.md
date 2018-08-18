@@ -19,3 +19,5 @@ feature_row:
 ## Currently Reading
 *Started: 11. August 2018*
 {% include feature_row id="feature_row" type="left" %}
+
+{% include mail-chimp.html %}
