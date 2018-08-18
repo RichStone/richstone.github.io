@@ -3,3 +3,7 @@ main:
   url: /
 - title: "About"
   url: /about/
+- title: "Books"
+  url: /books/
+- title: "Events"
+  url: /events/
