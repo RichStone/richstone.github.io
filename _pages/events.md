@@ -19,3 +19,5 @@ feature_row:
 ## Next Events
 *21 - 23 November, Berlin*
 {% include feature_row id="feature_row" type="left" %}
+
+{% include mail-chimp.html %}
