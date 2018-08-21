@@ -5,8 +5,8 @@ date:   2018-08-12
 categories: import
 permalink: blog/the-moderate-rise-and-tragic-fall-of-a-graph-database-importer
 header:
-  teaser: /assets/images/rise-and-fall/norman-filmplakat-cut.jpg
-  image: /assets/images/rise-and-fall/norman-filmplakat-cut.jpg
+  teaser: /assets/images/posts/rise-and-fall/norman-filmplakat-cut.jpg
+  image: /assets/images/posts/rise-and-fall/norman-filmplakat-cut.jpg
 ---
 
 This title of mine could sound familiar to you. [Norman: The Moderate Rise and Tragic Fall of a New York Fixer](https://www.imdb.com/title/tt4191702/) , it’s not a very mainstream or blockbuster-like movie. I still liked it very much, probably because of the act and because the story was told in an interesting way: It's about Norman, an older guy, who is trying his whole life as hard as he can to get very successful and popular in the rushing Wallstreet business. And he even reaches his goal at some point with a little bit of luck. But because he is not very wise, at the end, he loses it all (or maybe not, won't spoiler this one here for you ;-)
@@ -20,7 +20,7 @@ Our project started all easy going. I wrote the python code to collect the 928 X
 {: .text-justify}
 > "Get yourself a hard drive, bro.."
 
-![test](/assets/images/rise-and-fall/film1720-norman-1.gif)
+![test](/assets/images/posts/rise-and-fall/film1720-norman-1.gif)
 
 Ok, driving on. By the time the pubmed dump got downloaded and unzipped on my new shiny hard drive, I had my first import script ready. I was very excited to finally get this thing going. The first file was imported in a matter of a few minutes. 
 {: .text-justify}
@@ -30,7 +30,7 @@ Great! 🎉
 Just let it run overnight and let the computer do the work for you while you are sleeping. Isn’t that what all importers dream about? After a few hours of sleep, all excited about my new fresh database, I saw that ten files were done. This got me thinking of course, but I hoped that Mr. Maccie MacBook or rather the database was just exhausted from its prior work and hung up at some point. So I wrote some time tracking code and started it over again. When I was back home in the evening, I understood that my import times exploded exponentially after a few imported files. My fancy import code using an ORM would take years to finish!
 {: .text-justify}
 
-![test](/assets/images/rise-and-fall/041417gere005.jpg)
+![test](/assets/images/posts/rise-and-fall/041417gere005.jpg)
 
 ## The Ongoing 
 So I dove deeply into research. Reading articles. Exploring tutorials. Writing questions and posts. And of course trying things out. During this time we had an interesting threesome: I was a slave of my laptop always having him with me and waiting for an import error at XML file number 563 or whichever. Lappy, on the other hand, was a slave of the hard drive, where all the dump files where. Together we built an unseparable blockchain at day and at night. I dreamed of sheeps and imports. 
@@ -61,6 +61,6 @@ After thinking very hard where else I could store the database, I found a soluti
 In the end of the story everything went quite OK. I experienced all kind of hardware limitations and got a feeling of what Big Data is. I learned the power of controlling and cleaning the data and the necessity of serious research before diving into big projects. Not to speak of the improvement of my technical skills and the achievement of getting a huge powerful database together. So huge and powerful, that nobody could have thought about one tiny detail: Seemingly, you need a much stronger computational machine than my MacOS Pro. Unless you want just run aggregation functions on it like count() and mean().
 {: .text-justify}
 
-![Fall.](/assets/images/rise-and-fall/tragic-fall.jpg)
+![Fall.](/assets/images/posts/rise-and-fall/tragic-fall.jpg)
 
 {% include mail-chimp.html %}
