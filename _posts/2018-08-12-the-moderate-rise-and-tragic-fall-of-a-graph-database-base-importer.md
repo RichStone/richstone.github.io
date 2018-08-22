@@ -40,7 +40,7 @@ To keep my mac importing all the time I shuffled nasty apps into it like Coffein
 {: .text-justify}
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/rise-and-fall/slaves.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/rise-and-fall/posts/slaves.jpg" alt="">
   <figcaption>You never pause as a big data importer O.O </figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ After thinking very hard where else I could store the database, I found a soluti
 {: .text-justify}
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/rise-and-fall/norman-2016-film.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/rise-and-fall/norman-2016-film.jpg" alt="">
   <figcaption>The magic shoe moment. </figcaption>
 </figure>
 
