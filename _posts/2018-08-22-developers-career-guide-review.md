@@ -13,7 +13,7 @@ Ever since I started to learn about software development a few years ago, John S
 {: .text-justify}
 
 ## Test-Driven Development (TDD)
-I listened very carefully to all the testing and TDD bits, because at the time of listening, I was deeply involved in my side project, [crafting a data collection tool](/blog/data-collection-tool), that I wanted to finish in a full TDD manner. Everyone in the software industry should know how important testing is. After completing my side project I now also know how entertaining TDD can be. To be honest, I almost never had that much fun coding. The sooner you start to integrate tests and unit testing, the more confidence you will have during and after the development of your product.  There is plenty of material on test-driven data science and even a book about test driven machine learning. So join the club right away!
+I listened very carefully to all the testing and TDD bits, because at the time of listening, I was deeply involved in my side project, [crafting a data collection tool](/blog/data-collection-tool-tdd-process), that I wanted to finish in a full TDD manner. Everyone in the software industry should know how important testing is. After completing my side project I now also know how entertaining TDD can be. To be honest, I almost never had that much fun coding. The sooner you start to integrate tests and unit testing, the more confidence you will have during and after the development of your product.  There is plenty of material on test-driven data science and even a book about test driven machine learning. So join the club right away!
 {: .text-justify}
 
 ## Debugging
@@ -79,3 +79,5 @@ I love audiobooks where the author himself reads it. If you have read or are pla
 ___
 Don’t forget to share this article using the buttons below, if you learned something useful today. Other Engineers will thank it to you as well ;-)
 {: .text-justify}
+
+{% include mail-chimp.html %}

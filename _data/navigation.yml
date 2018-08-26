@@ -7,3 +7,5 @@ main:
   url: /books/
 - title: "Events"
   url: /events/
+- title: "Tools"
+  url: /tools/
