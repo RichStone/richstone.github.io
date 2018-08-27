@@ -9,3 +9,5 @@ main:
   url: /events/
 - title: "Tools"
   url: /tools/
+- title: "Bots"
+  url: /bots/
