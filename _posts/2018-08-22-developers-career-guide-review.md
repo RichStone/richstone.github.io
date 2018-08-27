@@ -7,6 +7,7 @@ permalink: /blog/software-developers-career-guide-review
 header:
   teaser: /assets/images/books/complete-career-guide-cover.jpg
   image: /assets/images/books/complete-career-guide-cover.jpg
+  url: https://www.amazon.de/gp/product/0999081411/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=0999081411&linkCode=as2&tag=datagoodie-21&linkId=943596d09907545bc9719e12bcd04362
 ---
 
 Ever since I started to learn about software development a few years ago, John Sonmez (the author of this book) was present in my search for answers. He is so to say my personal career guide. His new book also brought me quite some amount of insights, which I want to share with you. Basically, John describes in more or less detail, which software development related behaviors, trends and fundamentals are most important and why. I really liked the parts about motivation and learning, but I want to start with the software development trends he strongly emphasized on. And of course, I won’t forget to report some of this with my data enthusiast glasses on (or better said data enthusiast ear pods, because I listened to the audio version).
@@ -36,6 +37,8 @@ John is extremely harsh on certificates and I am very happy about this little ch
 ## Data?
 As the Datagoodie himself, I had been waiting every second for the data term to come up. The book speaks a lot about careers and possible paths but does not go into detail about the more specialized software developer roles. Which is not surprising regarding the fact that it’s an infinite, ever-evolving jungle of job titles. It speaks for one sentence or two about data science and cloud as a viable path, though. So, we have the confirmation now.
 {: .text-justify}
+
+___
 
 What else was there? Apart from stories, pearls of wisdom and worldviews from a deep-read and educated author, I enjoyed his thoughts about ethics and etiquette in the software industry. And as I mentioned in the introduction, the book is on a mission to enlighten and motivate the reader. I have found three quotes in the book, which deal from several perspectives with one of an engineer’s most valuable assets: the ability to learn.
 {: .text-justify}
@@ -69,14 +72,21 @@ No matter how hard it is, when you start a project, make a plan on how to finish
 {: .text-justify}
 
 ___
-While these are only my personal observations from the book, I recommend to read (or better listen to) this book, draw your own conclusions and enjoy your own biggest takeaways.
+While these are only my personal observations from the book, I recommend to read (or better listen to) this book, draw your own conclusions and enjoy your own biggest takeaways:
+
+<div style="text-align: center; margin-bottom: 3%;">
+    <a target="_blank"  href="https://www.amazon.de/gp/product/0999081411/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=0999081411&linkCode=as2&tag=datagoodie-21&linkId=943596d09907545bc9719e12bcd04362"><img src="/assets/images/books/complete-career-guide-cover.jpg" width="300px" alt="" style="border:none !important; margin:0px !important;" /></a>
+</div>
+
 
 I love audiobooks where the author himself reads it. If you have read or are planning to read this book, definitely grab the audio version to get John’s voice into your brain. Also, there are some important side notes and additional stories, which you won’t find in the print version. Here is how I’ve read it:
 - Listened to the audio version
 - Original Length 20 hours 4 minutes
 - Listened in 11.5 hours
 - From 11. August 2018 to 22. August 2018
+
 ___
+
 Don’t forget to share this article using the buttons below, if you learned something useful today. Other Engineers will thank it to you as well ;-)
 {: .text-justify}
 

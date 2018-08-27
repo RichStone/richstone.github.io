@@ -90,6 +90,8 @@ analytics:
     tracking_id: "UA-124363106-1"
     anonymize_ip: false # default
 
+bing_site_verification: "058B0E0F2FD021CEA13EF28D9980E564"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
