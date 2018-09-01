@@ -1,5 +1,7 @@
 ---
-permalink: about
+
+permalink: /about/
+
 ---
 
 Hey!
