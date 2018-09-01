@@ -32,7 +32,7 @@ github_username:  RichStone
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "RichStone/minimal-mistakes"
 plugins:
   - jekyll-feed
 

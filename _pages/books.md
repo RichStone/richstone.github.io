@@ -33,17 +33,58 @@ feature_row_3:
     title: "Make Money Blogging"
     excerpt: "The money making industry around blogs is vast and still only a fraction of bloggers earn anything or even 
     survive the first months of their endeavors. It's definitely an industry worth knowing more about."
+    
+feature_row_4:
+  - image_path: /assets/images/books/bachelor-of-time.jpg
+    alt: "Bachelor Of Time"
+    title: "Bachelor Of Time"
+    excerpt: "A short compilation and bingo game of probably ALL productivity hacks and buzz words. But still useful for
+    everyone."
+
+feature_row_5:
+  - image_path: /assets/images/books/on-writing-well.jpg
+    alt: "On Writing Well"
+    title: "On Writing Well"
+    excerpt: "It's obvious why I am listening to this one, but as an engineer you have a special need for writing as 
+    well: email communication, reports etc. This book will definitely improve your writing mindset and skills."
+
+feature_row_6:
+  - image_path: /assets/images/books/invest-like-a-pro.jpg
+    alt: "Invest Like A Pro"
+    title: "Invest Like A Pro"
+    excerpt: "Developers have really a lot to look out for in their financial life, because with bigger salaries come 
+    bigger responsibilities. This short guide gets you quickly on the investing track. 
+    Not trading, but defensive investing."
 ---
-## Currently Reading
-*Started: 27. August 2018*
-{% include feature_row id="feature_row_3" type="left" %}
 
-## Recently Read
-*22. August 2018 - 27. August 2018*
-{% include feature_row id="feature_row_2" type="left" %}
+> The datagoodie goal here is to read any book from a data-driven perspective and focus on information which can be 
+useful for the developer's everyday needs.
 
+## Recently Reviewed
+{: .text-center}
 *11. August 2018 - 22. August 2018*
 {% include feature_row id="feature_row" type="left" %}
+
+## Currently Reading
+{: .text-center}
+*Started: 31. August 2018*
+{% include feature_row id="feature_row_6" type="left" %}
+
+## Currently Listening To
+{: .text-center}
+*Sarted: 31. August 2018*
+{% include feature_row id="feature_row_5" type="left" %}
+
+## Recently Listened To
+{: .text-center}
+*29. August 2018 - 30. August 2018*
+{% include feature_row id="feature_row_4" type="left" %}
+
+*27. August 2018 - 29. August 2018*
+{% include feature_row id="feature_row_3" type="left" %}
+
+*22. August 2018 - 27. August 2018*
+{% include feature_row id="feature_row_2" type="left" %}
 
 
 
