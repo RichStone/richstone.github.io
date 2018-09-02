@@ -26,13 +26,37 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://datagoodie.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "RichStone/richstone.github.io"
 
-twitter_username: richstoneio
-github_username:  RichStone
+twitter:
+  username               : &twitter "stonerichio"
+facebook:
+  username               : &facebook "100008682485866"
+  app_id                 :
+  publisher              :
 
+social:
+  type:  # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+  - "https://twitter.com/stonerichio"
+  - "https://www.facebook.com/profile.php?id=100008682485866"
+  - "https://www.linkedin.com/in/richard-steinmetz/"
+  - "https://plus.google.com/113275668565108530267"
+
+author:
+  name            : "Richard Rich Steinmetz"
+  avatar          : "/assets/images/bio-photo.jpg"
+  linkedin        : "richard-steinmetz"
+  github          : "RichStone"
+  stackoverflow   : "https://stackoverflow.com/users/5925094/richard-rich-steinmetz"
+  facebook        : *facebook
+  twitter         : *twitter
+  bio             : "Exploring the Universe of Data."
+  email           : "steinmetz.richard [- @ -] outlook.com"
+  home            : "/about/"
 
 # Build settings
 markdown: kramdown
-remote_theme: "RichStone/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
 
@@ -57,22 +81,6 @@ comments:
   provider: "disqus"
   disqus:
     shortname: "datagooide"
-
-social:
-  type:  # Person or Organization (defaults to Person)
-  name:  # If the user or organization name differs from the site's name
-  links:
-    - "https://twitter.com/stonerichio"
-    - "https://www.facebook.com/profile.php?id=100008682485866"
-    - "https://www.linkedin.com/in/richard-steinmetz/"
-    - "https://plus.google.com/113275668565108530267"
-
-author:
-  name   : "Richard Rich Steinmetz"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Exploring the Universe of Data."
-  email  : "steinmetz.richard [- @ -] outlook.com"
-  home   : "/about/" # null (default), "absolute or relative url to link to author home"
 
 teaser: /assets/images/bio-photo.jpg
 
