@@ -17,6 +17,7 @@ Related to my personal projects in the next months, you will find the following 
 - My learnings and reviews from <span style="font-weight: bold;">`Data Engineering/Science`</span> courses and books
 - Organizations and individuals who use data for a <span style="font-weight: bold;">`good cause`</span>
 - <span style="font-weight: bold;">`Text Mining / NLP related posts`</span> (“Which is are part of my Bachelor’s Computer Science thesis that starts this October”)
+- <span style="font-weight: bold;">`Math`</span> concepts for Data Science explained by Samuel Thudi
 
 Feel free to get in touch if you have any questions or comments and enjoy the bits and bytes provided here :) And of course don’t forget to join the newsletter:
 {: .text-justify}

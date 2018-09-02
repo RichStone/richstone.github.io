@@ -75,10 +75,10 @@ ___
 While these are only my personal observations from the book, I recommend to read (or better listen to) this book, draw your own conclusions and enjoy your own biggest takeaways:
 
 <div style="display: block; text-align: center; margin-bottom: 3%;">
-    <a target="_blank"  href="https://www.amazon.de/gp/product/0999081411/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=0999081411&linkCode=as2&tag=datagoodie-21&linkId=943596d09907545bc9719e12bcd04362"><img src="/assets/images/books/complete-career-guide-cover.jpg" width="300px" alt="" style="border:none !important; margin:0px !important;" /></a>
+    <a target="_blank"  href="https://amzn.to/2wCC2BY"> <img src="/assets/images/books/complete-career-guide-cover.jpg" width="300px" alt="" style="border:none !important; margin:0px !important;" /></a>
 </div>
 <div style="display: block; text-align: center; margin-bottom: 3%;">
-    <a href="https://amzn.to/2PZ08yO" target="_blank" >The Complete Software Developer's Career Guide (Amazon Link)</a>
+    <a href="https://amzn.to/2wCC2BY" target="_blank"> The Complete Software Developer's Career Guide (Amazon Link)</a>
 </div>
 
 
