@@ -47,7 +47,7 @@ author:
   avatar          : "/assets/images/bio-photo.jpg"
   linkedin        : "richard-steinmetz"
   github          : "RichStone"
-  stackoverflow   : "https://stackoverflow.com/users/5925094/richard-rich-steinmetz"
+  stackoverflow   : "5925094/richard-rich-steinmetz"
   facebook        : *facebook
   twitter         : *twitter
   bio             : "Exploring the Universe of Data."
@@ -59,6 +59,7 @@ markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
+  - jekyll-archives
 
 defaults:
   - scope:
@@ -76,6 +77,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+      type: math
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      read_time: false
 
 comments:
   provider: "disqus"
@@ -84,10 +93,16 @@ comments:
 
 teaser: /assets/images/bio-photo.jpg
 
+collections:
+  math:
+    output: true
+    permalink: /:collection/:path/
+
+
 search: true
 search_full_content: true
 
-paginate: 5 # amount of posts to show
+paginate: 7 # amount of posts to show
 paginate_path: /page:num/
 
 include: ["_pages"]
@@ -99,6 +114,25 @@ analytics:
     anonymize_ip: false # default
 
 bing_site_verification: "058B0E0F2FD021CEA13EF28D9980E564"
+
+
+category_archive:
+  type: jekyll-archives
+  path: /categories/
+tag_archive:
+  type: jekyll-archives
+  path: /tags/
+jekyll-archives:
+  enabled:
+  - categories
+  - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
