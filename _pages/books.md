@@ -93,6 +93,9 @@ useful for the engineer's everyday needs.
 
 # Currently Reading
 {: .text-right}
+*Started: 03. September 2018*
+{% include feature_row id="feature_row_9" type="left" %}
+
 *Started: 31. August 2018*
 {% include feature_row id="feature_row_6" type="left" %}
 
