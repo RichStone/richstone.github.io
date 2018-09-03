@@ -1,6 +1,7 @@
 ---
 title: "datagoodie Readings"
-layout: splash
+layout: single
+toc: true
 permalink: /books
 date: 2018-08-19
 header: 
@@ -55,28 +56,59 @@ feature_row_6:
     excerpt: "Developers have really a lot to look out for in their financial life, because with bigger salaries come 
     bigger responsibilities. This short guide gets you quickly on the investing track. 
     Not trading, but defensive investing."
+    
+feature_row_7:
+  - image_path: /assets/images/podcasts/plumbers-of-data-science.jpg
+    alt: "Plumbers of Data Science"
+    title: "Plumbers of Data Science"
+    excerpt: "Plumbers of Data Science aka Data Engineers are great people and this podcast is mostly about them and 
+    about they people they plumb for ;-) Check this out here on to listen on any platform you like: [Plumbers of Data Science](https://andreaskretz.com/podcast/)
+    "
+
+    
+feature_row_8:
+  - image_path: /assets/images/books/steve-jobs.jpg
+    alt: "Steve Jobs"
+    title: "Steve Jobs"
+    excerpt: "Datagoodie goes biographies. Steve Jobs was a visionary, a developer, a designer, a creator, an electronics engineer, a shaper. I wouldn't be surprised
+    if he also was a Data Engineer, at least at some degree. Actually I started this one a year ago, but it didn't really catch me. Now
+    with my data-driven glasses on I have new motivation."
+    
+feature_row_9:
+  - image_path: /assets/images/books/python-tricks.png
+    alt: "Python Tricks"
+    title: "Python Tricks"
+    excerpt: "My new book project to read about the pythonic wonders: advanced, useful and maybe sometimes unheeded 
+    techniques to get the most out of python. 
+    Stay tuned to read the review soon."
 ---
 
-> The datagoodie goal here is to read any book from a data-driven perspective and focus on information which can be 
-useful for the developer's everyday needs.
+> The goal here is to read books from a data-driven perspective and focus on information which can be 
+useful for the engineer's everyday needs.
 
-## Recently Reviewed
-{: .text-center}
+# Recently Reviewed
+{: .text-right}
 *11. August 2018 - 22. August 2018*
 {% include feature_row id="feature_row" type="left" %}
 
-## Currently Reading
-{: .text-center}
+# Currently Reading
+{: .text-right}
 *Started: 31. August 2018*
 {% include feature_row id="feature_row_6" type="left" %}
 
-## Currently Listening To
-{: .text-center}
-*Sarted: 31. August 2018*
+# Currently Listening To
+{: .text-right}
+*Sarted: 03. August 2018*
+{% include feature_row id="feature_row_7" type="left" %}
+
+*Sarted: 04. August 2018*
+{% include feature_row id="feature_row_8" type="left" %}
+
+# Recently Listened To
+{: .text-right}
+*31. August 2018 - 02. September 2018*
 {% include feature_row id="feature_row_5" type="left" %}
 
-## Recently Listened To
-{: .text-center}
 *29. August 2018 - 30. August 2018*
 {% include feature_row id="feature_row_4" type="left" %}
 
