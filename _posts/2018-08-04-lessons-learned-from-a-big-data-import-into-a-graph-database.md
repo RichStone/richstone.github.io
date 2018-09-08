@@ -2,7 +2,10 @@
 layout: single
 title:  "Lessons Learned from a Big Data Import into a Graph Database"
 date:   2018-08-04
-categories: import test
+categories: lessons-learned
+tags: 
+    - big-data
+    - data-engineering
 permalink: blog/lessons-learned-neo4j-big-data-import/
 header:
   teaser: /assets/images/lessons-learned.jpg

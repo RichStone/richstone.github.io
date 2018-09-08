@@ -2,7 +2,10 @@
 layout: single
 title:  "The moderate rise and tragic fall of a Graph Database Importer"
 date:   2018-08-12
-categories: import
+categories: lessons-learned
+tags: 
+    - big-data
+    - data-engineering
 permalink: blog/the-moderate-rise-and-tragic-fall-of-a-graph-database-importer/
 header:
   teaser: /assets/images/posts/rise-and-fall/norman-filmplakat-cut.jpg

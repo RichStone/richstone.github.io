@@ -3,6 +3,7 @@ layout: single
 title:  "A Legal Data Collection Tool For Your Next Big Data Dump"
 date:   2018-08-30
 categories: tools
+tags: code-metrics
 permalink: /blog/introducing-data-collection-tool/
 header:
   teaser: /assets/images/posts/data-collection-banner.jpg
