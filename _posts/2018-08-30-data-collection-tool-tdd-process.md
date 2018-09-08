@@ -4,7 +4,7 @@ title:  "The Amazing Process Of Test Driven Development"
 date:   2018-08-30
 categories: tools
 tags: tdd
-permalink: /blog/data-collection-tool-tdd-process
+permalink: /blog/data-collection-tool-tdd-process/
 header:
   teaser: /assets/images/books/tdd.jpg
   image: /assets/images/books/tdd.jpg

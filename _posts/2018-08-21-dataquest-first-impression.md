@@ -3,7 +3,7 @@ layout: single
 title:  "My First Data Engineering Quest on dataquest.io Compared To Other Learning Resources"
 date:   2018-08-12
 categories: import
-permalink: blog/data-engineering-learning-resources-dataquest
+permalink: blog/data-engineering-learning-resources-dataquest/
 header:
   teaser: /assets/images/posts/dataquest-first-impression/dataquest-banner.png
   image: /assets/images/posts/dataquest-first-impression/dataquest-banner.png

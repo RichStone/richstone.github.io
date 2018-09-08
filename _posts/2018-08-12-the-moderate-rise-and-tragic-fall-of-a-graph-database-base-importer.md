@@ -3,7 +3,7 @@ layout: single
 title:  "The moderate rise and tragic fall of a Graph Database Importer"
 date:   2018-08-12
 categories: import
-permalink: blog/the-moderate-rise-and-tragic-fall-of-a-graph-database-importer
+permalink: blog/the-moderate-rise-and-tragic-fall-of-a-graph-database-importer/
 header:
   teaser: /assets/images/posts/rise-and-fall/norman-filmplakat-cut.jpg
   image: /assets/images/posts/rise-and-fall/norman-filmplakat-cut.jpg
