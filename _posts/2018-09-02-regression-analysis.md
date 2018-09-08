@@ -8,7 +8,7 @@ tags:
   - math-ml
 ---
 
-> Regression Analysis is one of the most essential techniques in the field of machine learning. Get an nice overview here:
+> Regression Analysis is one of the most essential techniques in the field of machine learning. Get a nice overview here:
 
 <img src="/assets/images/math/regression-analysis/Regression-1.png" alt="regression info graphic"/>
 <img src="/assets/images/math/regression-analysis/Regression-2.png" alt="regression info graphic"/>

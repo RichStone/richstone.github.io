@@ -13,8 +13,7 @@ header:
   overlay_image: /assets/images/math/header.jpg
 ---
 
-> A weekly statistical digest of some math concept waits here for you. Let us know if you are still hungry for a certain
-math topic to be explained, we are curious!
+> Let us know if you are still hungry for a certain math topic to be explained, we are curious!
 
 <h1>Machine Learning</h1>
 All our math goodie posts related to ML: <a href="/tags/math-ml/">click here</a>

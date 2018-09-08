@@ -6,8 +6,8 @@ categories: tools
 tags: tdd
 permalink: /blog/data-collection-tool-tdd-process
 header:
-  teaser: /assets/images/posts/data-collection-banner.jpg
-  image: /assets/images/posts/data-collection-banner.jpg
+  teaser: /assets/images/books/tdd.jpg
+  image: /assets/images/books/tdd.jpg
 ---
 
 I love job interviews. Honestly. Of course, don’t get me wrong, I hate them too, as probably the majority of the Earth population. But I have many reasons to love them as well. Job Application season, for me, is the time to reflect on your life, your thoughts, your abilities. But even more exciting is the learning process. Learning about companies,  about yourself, about people. But that’s not all there is. There was this one interview some time ago that changed my life because, without it, I probably wouldn’t write this article here right now. 
@@ -64,6 +64,12 @@ After the first part of my project was finished, I realized that I don't even ha
 3. Write the smallest possible change to get the tests to pass (like hard-coding values)
 4. Run the tests to see them pass
 5. Refactor
+
+**It is an iterative process:**
+<figure>
+	<img src="/assets/images/posts/test-driven-development-process-cycle.png">
+	<figcaption><a href="https://www.xenonstack.com/blog/data-science/test-tdd-bdd-unit-testing-python/" title="TDD process" target="blank" >Slightly modified graphic from xenonstack article about TDD in Python</a>.</figcaption>
+</figure>
 
 How did this flow work out for me? 
 

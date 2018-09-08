@@ -28,7 +28,7 @@ gallery:
 
 Whether you are a data professional preparing for your next project or just somebody who wants to have fun with the treasures of the internet, it all starts with data. 
 If you already found your data source you might find my new generic and fairly flexible download script useful. I wrote it with Python using a test-driven development approach. 
-(If you are interested in TDD, check out my blog about the amazing TDD process I went through when I programmed the tool LINK)
+(If you are interested in TDD, check out my blog about the amazing TDD process I went through when I programmed [the tool](/blog/data-collection-tool-tdd-process) )
 {: .text-justify}
 
 The usage is as easy as to say ...
