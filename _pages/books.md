@@ -2,7 +2,7 @@
 title: "datagoodie Readings"
 layout: single
 toc: true
-permalink: /books
+permalink: /books/
 date: 2018-08-19
 header: 
   overlay_color: "#000"

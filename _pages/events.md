@@ -1,7 +1,7 @@
 ---
 title: "Events"
 layout: splash
-permalink: /events
+permalink: /events/
 date: 2018-08-19
 header: 
   overlay_color: "#000"
