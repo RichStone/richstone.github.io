@@ -11,7 +11,7 @@ header:
 excerpt: "You won't remember every detail of a book, but every good book will engrain something useful in your thinking 
 and thus transform your personality slowly but surely."
 
-feature_row:
+career_guide:
   - image_path: /assets/images/books/complete-career-guide.png
     alt: "complete career guide"
     title: "The Complete Software Developer's Career Guide"
@@ -49,11 +49,11 @@ feature_row_5:
     excerpt: "It's obvious why I am listening to this one, but as an engineer you have a special need for writing as 
     well: email communication, reports etc. This book will definitely improve your writing mindset and skills."
 
-feature_row_6:
+invest_like_a_pro:
   - image_path: /assets/images/books/invest-like-a-pro.jpg
     alt: "Invest Like A Pro"
     title: "Invest Like A Pro"
-    excerpt: "Developers have really a lot to look out for in their financial life, because with bigger salaries come 
+    excerpt: "Preparing for after the Bachelor's thesis 🤑 Developers have really a lot to look out for in their financial life, because with bigger salaries come 
     bigger responsibilities. This short guide gets you quickly on the investing track. 
     Not trading, but defensive investing."
     
@@ -64,7 +64,6 @@ feature_row_7:
     excerpt: "Plumbers of Data Science aka Data Engineers are great people and this podcast is mostly about them and 
     about they people they plumb for ;-) Check this out here on to listen on any platform you like: [Plumbers of Data Science](https://andreaskretz.com/podcast/)
     "
-
     
 feature_row_8:
   - image_path: /assets/images/books/steve-jobs.jpg
@@ -74,13 +73,20 @@ feature_row_8:
     if he also was a Data Engineer, at least at some degree. Actually I started this one a year ago, but it didn't really catch me. Now
     with my data-driven glasses on I have new motivation."
     
-feature_row_9:
+python_tricks:
   - image_path: /assets/images/books/python-tricks.png
     alt: "Python Tricks"
     title: "Python Tricks"
-    excerpt: "My new book project to read about the pythonic wonders: advanced, useful and maybe sometimes unheeded 
-    techniques to get the most out of python. 
-    Stay tuned to read the review soon."
+    excerpt: "Bumped up my python and programming knowledge to a new level!"
+    url: "https://www.amazon.de/gp/product/3864905680/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3864905680&linkCode=as2&tag=datagoodie-21&linkId=917cebd31c16f2b8b89644d69d4a024a"
+    btn_label: "Go to 🇩🇪 German 🇩🇪 Amazon Review"
+    btn_class: "btn--info"
+
+applied_text_analysis:
+    - image_path: /assets/images/books/applied-text-analysis.jpg
+      alt: "Applied Text Analysis With Python"
+      title: "Applied Text Analysis With Python"
+      excerpt: "Preparing for my Bachelor's thesis 🙏 "
 ---
 
 > The goal here is to read books from a data-driven perspective and focus on information which can be 
@@ -89,15 +95,18 @@ useful for the engineer's everyday needs.
 # Recently Reviewed
 {: .text-right}
 *11. August 2018 - 22. August 2018*
-{% include feature_row id="feature_row" type="left" %}
+{% include feature_row id="career_guide" type="left" %}
+
+*03. September 2018 - 08. September 2018*
+{% include feature_row id="python_tricks" type="left" %}
 
 # Currently Reading
 {: .text-right}
-*Started: 03. September 2018*
-{% include feature_row id="feature_row_9" type="left" %}
+*Started: 11. September 2018*
+{% include feature_row id="applied_text_analysis" type="left" %}
 
 *Started: 31. August 2018*
-{% include feature_row id="feature_row_6" type="left" %}
+{% include feature_row id="invest_like_a_pro" type="left" %}
 
 # Currently Listening To
 {: .text-right}
