@@ -7,6 +7,7 @@ tags:
     - community
     - meet-up
     - conference
+    - goto
 permalink: /blog/2018-09-12-mind-transforming-conferences-and-meetups.md/
 header:
   teaser: /assets/images/posts/goto/goto-overview.png
