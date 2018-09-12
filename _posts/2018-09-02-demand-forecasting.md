@@ -16,3 +16,5 @@ published: false
 <img src="/assets/images/math/demand-forecasting/Demand-Forecasting-1.png" alt="demand forecasting info graphic"/>
 <img src="/assets/images/math/demand-forecasting/Demand-Forecasting-1.png" alt="demand forecasting info graphic"/>
 <img src="/assets/images/math/demand-forecasting/Demand-Forecasting-1.png" alt="demand forecasting info graphic"/>
+
+{% include mail-chimp.html %}

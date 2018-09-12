@@ -70,3 +70,5 @@ Do you know other great portals for finding a data community? Maybe even offline
 {: .text-justify}
 
 Also please share this post to get more input on that.
+
+{% include mail-chimp.html %}

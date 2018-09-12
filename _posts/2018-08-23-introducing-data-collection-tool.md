@@ -83,4 +83,5 @@ If that is your case, you will need to read the owner’s terms and conditions o
 
 
 Do you know somebody who could use this tool? Then just share this article with that person, it will save them some time :)
+
 {% include mail-chimp.html %}

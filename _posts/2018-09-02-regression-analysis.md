@@ -15,3 +15,5 @@ tags:
 <img src="/assets/images/math/regression-analysis/Regression-2.png" alt="regression info graphic"/>
 <img src="/assets/images/math/regression-analysis/Regression-3.png" alt="regression info graphic"/>
 <img src="/assets/images/math/regression-analysis/Regression-4.png" alt="regression info graphic"/>
+
+{% include mail-chimp.html %}
