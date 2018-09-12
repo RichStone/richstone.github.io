@@ -57,3 +57,5 @@ Just GOTO amazing, high-quality conferences as well as meet-ups. Thus, you can b
 If you are more into technical tweaks and tricks, I am also planning to attend the next PyData, Python Usergroup Berlin and a [Git/GitHub for Beginners Workshop](https://www.facebook.com/events/539269453179219/)){:target=“_blank”}
  (as a teacher)
 {: .text-justify}
+
+{% include mail-chimp.html %}
