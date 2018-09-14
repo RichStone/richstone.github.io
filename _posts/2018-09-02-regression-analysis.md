@@ -1,6 +1,7 @@
 ---
 title: "Regression Analysis"
 permalink: /math/reggression-analysis/
+author: "Samuel Thudi"
 
 categories:
   - math
