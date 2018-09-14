@@ -23,10 +23,6 @@ Since then it was my goal to attend another great conference. The topics of GOTO
 And the best thing is that the GOTO meet-ups, which take place in between the yearly conferences, also come with quite some transformation potential. Last year I was to a meet-up, that took place at the Berlin Congress Center at Alexanderplatz and starred no one less than Chad Fowler, a superstar developer.
 {: .text-justify}
 
-
-[image:525F59BE-94E5-4772-8848-3133A763E0E1-4933-00007A2D6C7718FE/600_461280464.jpeg]
-[image:6DA319F0-7D1C-4E89-8A0A-A16CBF571458-4933-00007A2E1F566B79/600_461280470.jpeg]
-
 <figure class="half">
     <a href="/assets/images/posts/goto/chad-fowler-goto-2017.jpeg"><img src="/assets/images/posts/goto/chad-fowler-goto-2017.jpeg"></a>
     <a href="/assets/images/posts/goto/goto-2017-meetup.jpeg"><img src="/assets/images/posts/goto/goto-2017-meetup.jpeg"></a>
