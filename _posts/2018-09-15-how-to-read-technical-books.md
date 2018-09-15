@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "How to read technical books most effectively"
+title:  "How to Read Technical Books Most Effectively"
 date:   2018-09-15
 categories: 
     - books

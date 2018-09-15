@@ -7,6 +7,7 @@ categories:
     - best-practices
 tags:
     - python
+    - big-data
 permalink: /blog/2018-09-15-python-big-data-tricks/
 header:
   teaser: /assets/images/posts/efficient-big-data.png
