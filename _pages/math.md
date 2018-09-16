@@ -15,5 +15,12 @@ header:
 
 > Let us know if you are still hungry for a certain math topic to be explained, we are curious!
 
-<h1>Machine Learning</h1>
-All our math goodie posts related to ML: <a href="/tags/math-ml/">click here</a>
+<h1><a href="/tags/math-ml/">Machine Learning</a></h1>
+
+___
+
+<h1><a href="/tags/math-basics/">Basics</a></h1>
+
+___
+
+{% include mail-chimp.html %}

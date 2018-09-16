@@ -22,4 +22,8 @@ At the end of this short refresher you will also find advice on which type to us
 <img src="/assets/images/math/regression-analysis/Regression-3.png" alt="regression info graphic"/>
 <img src="/assets/images/math/regression-analysis/Regression-4.png" alt="regression info graphic"/>
 
+You may also <a href="/assets/pdf/math/regression-analysis.pdf" target="_blank">Download the PDF</a>
+
+> This post is a part of the Math for Data Science series. Get more of it <a href="/math">here.</a>
+
 {% include mail-chimp.html %}
