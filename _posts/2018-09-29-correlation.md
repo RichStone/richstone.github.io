@@ -13,6 +13,8 @@ header:
   image: /assets/images/math/correlation/correlation-header.jpg
 ---
 
+Enjoy a short refresher on your statistical correlation skills.
+
 <img src="/assets/images/math/correlation/correlation-1.jpg" alt="correlation"/>
 <img src="/assets/images/math/correlation/correlation-2.jpg" alt="correlation"/>
 <img src="/assets/images/math/correlation/correlation-3.jpg" alt="correlation"/>
