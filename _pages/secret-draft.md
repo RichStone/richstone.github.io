@@ -1,7 +1,7 @@
 ---
 title: "Git is just a Game - A Simple Tutorial Explanation"
 layout: single
-permalink: /secret-draft/
+permalink: /secret-draft2/
 date: 2018-09-30
 ---
 
