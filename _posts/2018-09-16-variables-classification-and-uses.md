@@ -8,6 +8,7 @@ categories:
 tags:
   - math-basics
   - variables
+  - statistics
 header:
   teaser: /assets/images/math/variables-bird.png
   image: /assets/images/math/variables-bird.png

@@ -8,6 +8,7 @@ categories:
 tags:
   - math-basics
   - correlation
+  - statistics
 header:
   teaser: /assets/images/math/correlation/correlation-header.jpg
   image: /assets/images/math/correlation/correlation-header.jpg

@@ -8,6 +8,7 @@ categories:
 tags:
   - math-ml
   - ml
+  - statistics
 header:
   teaser: /assets/images/math/regression-analysis/regression-analysis-plant.jpg
   image: /assets/images/math/regression-analysis/regression-analysis-plant.jpg
