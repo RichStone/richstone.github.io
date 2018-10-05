@@ -87,18 +87,27 @@ applied_text_analysis:
       alt: "Applied Text Analysis With Python"
       title: "Applied Text Analysis With Python"
       excerpt: "Preparing for my Bachelor's thesis 🙏 "
+      
+design_sprint:
+    - image_path: /assets/images/books/design-sprint.png
+      alt: "Sprint"
+      title: "Sprint"
+      excerpt: "I facilitated an emergency design sprint strictly following Google's approach and reading their book in a ... well in a sprint fashion killing it in roughly 3.5 days. Great experience!"
 ---
 
 > The goal here is to read books from a data-driven perspective and focus on information which can be 
 useful for the engineer's everyday needs.
 
-# Recently Reviewed
+# Recent Highlights
 {: .text-right}
 *11. August 2018 - 22. August 2018*
 {% include feature_row id="career_guide" type="left" %}
 
 *03. September 2018 - 08. September 2018*
 {% include feature_row id="python_tricks" type="left" %}
+
+*16. September 2018 - 19. September 2018*
+{% include feature_row id="design_sprint" type="left" %}
 
 # Currently Reading
 {: .text-right}
