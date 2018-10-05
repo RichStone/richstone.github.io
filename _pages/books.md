@@ -77,7 +77,7 @@ python_tricks:
   - image_path: /assets/images/books/python-tricks.png
     alt: "Python Tricks"
     title: "Python Tricks"
-    excerpt: "Bumped up my python and programming knowledge to a new level!"
+    excerpt: "Bumped up my python and programming knowledge to a new level! And inspired me to create <a href='https://datagoodie.com/blog/2018-09-15-python-big-data-tricks/' target='_blank' >Python Big Data Tricks section</a>"
     url: "https://www.amazon.de/gp/product/3864905680/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3864905680&linkCode=as2&tag=datagoodie-21&linkId=917cebd31c16f2b8b89644d69d4a024a"
     btn_label: "Go to 🇩🇪 German 🇩🇪 Amazon Review"
     btn_class: "btn--info"
