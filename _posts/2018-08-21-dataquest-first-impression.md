@@ -3,7 +3,9 @@ layout: single
 title:  "My First Data Engineering Quest on dataquest.io Compared To Other Learning Resources"
 date:   2018-08-12
 categories: courses
-tags: review
+tags: 
+    - review
+    - data-engineering
 permalink: blog/data-engineering-learning-resources-dataquest/
 header:
   teaser: /assets/images/posts/dataquest-first-impression/dataquest-banner.png

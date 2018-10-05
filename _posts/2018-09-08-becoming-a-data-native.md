@@ -6,6 +6,7 @@ categories: events
 tags: 
     - community
     - meet-up
+    - datanatives
 permalink: /blog/how-to-communitize/
 header:
   teaser: /assets/images/posts/how-to-communitize.png
