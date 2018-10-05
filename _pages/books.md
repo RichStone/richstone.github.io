@@ -92,7 +92,7 @@ design_sprint:
     - image_path: /assets/images/books/design-sprint.png
       alt: "Sprint"
       title: "Sprint"
-      excerpt: "I facilitated an "emergency design sprint" strictly following Google's approach and reading their book in a ... well in a hardcore sprint fashion ... killing the book in roughly 3.5 days while facilitating the sprint. Great experience!"
+      excerpt: "I facilitated an 'emergency design sprint' strictly following Google's approach and reading their book in a ... well in a hardcore sprint fashion ... killing the book in roughly 3.5 days while facilitating the sprint. Great experience!"
 ---
 
 > The goal here is to read books from a data-driven perspective and focus on information which can be 
