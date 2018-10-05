@@ -1,8 +1,6 @@
 main:
 - title: "Blog"
   url: /
-- title: "Math"
-  url: /math/
 - title: "About"
   url: /about/
 - title: "Books"
@@ -11,5 +9,7 @@ main:
   url: /events/
 - title: "Tools"
   url: /tools/
+- title: "Math"
+  url: /math/
 - title: "Bots"
   url: /bots/

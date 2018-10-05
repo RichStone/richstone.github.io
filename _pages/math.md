@@ -15,9 +15,17 @@ header:
 
 > Let us know if you are still hungry for a certain math topic to be explained, we are curious!
 
+___
+
+<h1><a href="/categories/math/">All</a></h1>
+
+___
+
+
 <h1><a href="/tags/math-ml/">Machine Learning</a></h1>
 
 ___
+
 
 <h1><a href="/tags/math-basics/">Basics</a></h1>
 
