@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "{ datagoodie }"
+title: "datagoodie"
 title_separator: "|"
 name: "Richard Rich Steinmetz"
 email: "steinmetz.richard [- @ -] outlook.com"
@@ -56,10 +56,14 @@ author:
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.13.0"
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
-  - jekyll-archives
+  - jemoji
+  - jekyll-include-cache
 
 defaults:
   - scope:
