@@ -8,6 +8,7 @@ categories:
 tags:
     - python
     - big-data
+    - compilation
 permalink: /blog/2018-09-15-python-big-data-tricks/
 header:
   teaser: /assets/images/posts/efficient-big-data.png
