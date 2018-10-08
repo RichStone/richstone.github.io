@@ -21,14 +21,6 @@ career_guide:
     btn_label: "Go to Review"
     btn_class: "btn--info"
     
-ds_plumbers:
-  - image_path: /assets/images/podcasts/plumbers-of-data-science.jpg
-    alt: "Plumbers of Data Science"
-    title: "Plumbers of Data Science"
-    excerpt: "Plumbers of Data Science aka Data Engineers are great people and this podcast is mostly about them and 
-    about they people they plumb for ;-) Check this out here on to listen on any platform you like: [Plumbers of Data Science](https://andreaskretz.com/podcast/){:target="blank"}
-    "
-    
 python_tricks:
   - image_path: /assets/images/books/python-tricks.png
     alt: "Python Tricks"
