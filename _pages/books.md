@@ -26,7 +26,7 @@ ds_plumbers:
     alt: "Plumbers of Data Science"
     title: "Plumbers of Data Science"
     excerpt: "Plumbers of Data Science aka Data Engineers are great people and this podcast is mostly about them and 
-    about they people they plumb for ;-) Check this out here on to listen on any platform you like: [Plumbers of Data Science](https://andreaskretz.com/podcast/)
+    about they people they plumb for ;-) Check this out here on to listen on any platform you like: [Plumbers of Data Science](https://andreaskretz.com/podcast/){:target="blank"}
     "
     
 python_tricks:
@@ -57,10 +57,6 @@ design_sprint:
 
 *16. September 2018 - 19. September 2018*
 {% include feature_row id="design_sprint" type="left" %}
-
-# Currently Listening To
-{: .text-right}
-{% include feature_row id="ds_plumbers" type="left" %}
 
 ___ 
 
