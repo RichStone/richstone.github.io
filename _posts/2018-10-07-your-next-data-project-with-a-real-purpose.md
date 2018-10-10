@@ -12,8 +12,8 @@ tags:
     - compilation
 permalink: /blog/2018-10-07-your-next-data-project-with-a-real-purpose.md/
 header:
-  teaser: /assets/images/posts/data-for-good-projects/prometheus-data.jpg
-  image: /assets/images/posts/data-for-good-projects/prometheus-data.jpg
+  teaser: /assets/images/posts/data-for-good-projects/prometheus-data-smaller.jpg
+  image: /assets/images/posts/data-for-good-projects/prometheus-data-smaller.jpg
 ---
 
 Back in the days, when there were a lot of gods and mystical creatures walking and flying around on Earth, the tyrannical God Zeus decided

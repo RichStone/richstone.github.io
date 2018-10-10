@@ -17,11 +17,10 @@ feature_row:
     url: "https://acobot.ai?ref=2844"
     btn_label: "Try Acobot"
     btn_class: "btn--success"
+published: false
 ---
 
 ## Bots
 {% include feature_row id="feature_row" type="left" %}
 
 {% include mail-chimp.html %}
-
-<script src="https://acobot.ai/js/w?key=430443.U0jtUGep6eh4mTeg"></script>
