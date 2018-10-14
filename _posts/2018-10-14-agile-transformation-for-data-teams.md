@@ -10,7 +10,7 @@ tags:
     - big-data
     - agile
     - scrum
-permalink: /blog/2018-10-14-agile-transformation-for-data-teams
+permalink: /blog/2018-10-14-agile-transformation-for-data-teams/
 header:
   teaser: /assets/images/posts/agile.png
   image: /assets/images/posts/agile.png
