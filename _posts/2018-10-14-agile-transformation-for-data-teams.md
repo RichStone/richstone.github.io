@@ -77,7 +77,7 @@ The SAP team gave away a few golden nuggets at the end of the presentation and s
 
 1. Don’t be dogmatic about doing agile. Use agile tools as a toolbox, according to your use case and derive your own best practices.
 2. Work hard to have management fully on board to stand on your side and to support the transformation.
-3. If you want to incorporate a new agile best practice, think about the best strategy first: Is it maybe better to “just do it” without announcing the buzzing buzzwords you want to work on? Or do you want to have endless discussions about what “Continuous Control” really is about? (I have not made this one up by the way. You will find some information on CC at the end of this post of mine: https://datagoodie.com/blog/2018-09-12-mind-transforming-conferences-and-meetups.md/)
+3. If you want to incorporate a new agile best practice, think about the best strategy first: Is it maybe better to “just do it” without announcing the buzzing buzzwords you want to work on? Or do you want to have endless discussions about what “Continuous Control” really is about? (I have not made this one up by the way. You will find some information on CC at the end of this post of mine: [Mind Transforming Conferences and Meet-Ups](https://datagoodie.com/blog/2018-09-12-mind-transforming-conferences-and-meetups.md/){:target='blank'})
 
 As some last resources, I want to share an article with you that also deals with agile transformation for data teams but mentions additional points to be aware of, like communication, infrastructure and more KPIs:
 [Using agile to accelerate your data transformation](https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/using-agile-to-accelerate-your-data-transformation){:target='blank'}
