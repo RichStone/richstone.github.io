@@ -6,7 +6,7 @@ categories: courses
 tags: 
     - review
     - data-engineering
-permalink: blog/data-engineering-learning-resources-dataquest/
+permalink: /blog/data-engineering-learning-resources-dataquest/
 header:
   teaser: /assets/images/posts/dataquest-first-impression/dataquest-banner.png
   image: /assets/images/posts/dataquest-first-impression/dataquest-banner.png

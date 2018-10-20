@@ -85,3 +85,5 @@ As some last resources, I want to share an article with you that also deals with
 Talking of KPIs, I have just read a great article about how useful OKRs for Data Science are. Applied with discipline they can play an impactful role on your transformation: [The Power of Goal-Setting in Data Science](https://towardsdatascience.com/the-power-of-goal-setting-for-your-data-science-project-9338bf475abd){:target='blank'}
 
 Wow, this was a lot of information and links. Feel free to share this post if it was of any help for you. 🚀
+
+{% include mail-chimp.html %}

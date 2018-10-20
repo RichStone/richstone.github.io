@@ -54,7 +54,7 @@ There are online and live competitions that both have their advantages.
 {: .text-justify}
 
 ### drivendata
-[drivendata.org](drivendata.org){:target=“blank”} is the perfect place when you want to take part in a data challenge that is playing a role to make the world a better place. For instance, there are serious rumors going around that if bees die out, we die out too. But no worries, our lives are saved for now because brave data science warriors at drivendata rocked the [Naive Bees Classifier Competition](https://www.drivendata.org/competitions/8/naive-bees-classifier/){:target=“blank”}. 
+[drivendata.org](http://drivendata.org){:target=“blank”} is the perfect place when you want to take part in a data challenge that is playing a role to make the world a better place. For instance, there are serious rumors going around that if bees die out, we die out too. But no worries, our lives are saved for now because brave data science warriors at drivendata rocked the [Naive Bees Classifier Competition](https://www.drivendata.org/competitions/8/naive-bees-classifier/){:target=“blank”}. 
 But drivendata also attends to other serious planet challenges like water supply, education and much more:
 [All Competitions](https://www.drivendata.org/competitions/){:target=“blank”}
 {: .text-justify}
@@ -135,3 +135,5 @@ sparkling data fire to help the human kind there, were it is in need the most.
 ___
 
 I also hope some of the tips were so helpful to you that you click the share button and thus maybe invoke even more Good 🚀
+
+{% include mail-chimp.html %}
