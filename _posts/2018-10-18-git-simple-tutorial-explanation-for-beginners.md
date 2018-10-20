@@ -245,7 +245,7 @@ ___
 
 ___
 
-Please reach out, if something is unclear. Others might have the exact same question to!
+Please reach out, if something is unclear. Others might have the exact same question too!
 
 Any feedback and ideas for future posts are highly appreciated. And also if you share this article because you found it useful 🚀
 

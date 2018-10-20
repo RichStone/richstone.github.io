@@ -8,13 +8,16 @@ header:
   image: /assets/images/posts/code-sprint/animal-sprint.jpg
 ---
 
-Programmers, coders, hackers, developers, call us how you like but we are all creative people. Because like writers, musicians, filmmakers, and other artists we create new stuff, with our hands.
+This post is a recipe from preparation over the baking process up to the cake to ...
+> ... realize your personal software project in one day with the Code Sprint Framework
+
+I could also imagine that this framework could be used in teams at companies to validate a software idea or an innovation proposal.
+
+Programmers, coders, hackers, developers, call us how you like, but we are all creative people. 
+The reason being that like writers, musicians, filmmakers, and other artists we craft new and sometimes exciting code, using our hands.
 {: .text-justify}
 
-Probably every individual of this techie species had a dream, an idea or at least a wish about a software piece to produce. 
-{: .text-justify}
-
-I know many developers who always want or wanted to craft a script that will automate their current work, build an app (be it useful or fun) or finally find some time to publish a blog.
+I know many developers who always want or wanted to create a script that will automate their current work, build an app (be it useful or fun) or finally to find some time to publish a blog.
 {: .text-justify}
 
 Often we are trapped in thinking that we need to wait for some time window that will magically free up time for us.
@@ -25,22 +28,25 @@ Often we are trapped in thinking that we need to wait for some time window that 
   <figcaption>The Magic Time Window</figcaption>
 </figure>
 
-Whether this time window exists somewhere in the future or not does not really matter. If you are really super busy, you have basically 3 major options at this point.
+Whether this time window exists somewhere in the future or not does not really matter. If you are a busy subject, you have basically 3 major options at this point.
 {: .text-justify}
 
 1. *Do nothing and wait a bit more.* 
-The project will then be forgotten or forever remembered in vain or done by someone else at some point.
+The project will then be forgotten or forever remembered in vain. Or done by someone else at some point of history.
 {: .text-justify}
 
 2. *Start building your project with tiny little steps today.*
-I am a big proponent of small changes. Like of [30-day challenges](https://thoughtbrick.com/lifestyle/hundred-30-day-challenge-ideas/){:target="_blank"} and of doing taking mini steps that improve your life and skill considerably, like writing at least [one sentence or one line of code per day](https://dariusforoux.com/daily-writing-habit/){:target="_blank"}. These habit building techniques are invaluable.
+I am a big proponent of small changes. Like of [30-day challenges](https://thoughtbrick.com/lifestyle/hundred-30-day-challenge-ideas/){:target="_blank"} and of taking mini steps that improve your life and skill considerably, like writing at least [one sentence or one line of code per day](https://dariusforoux.com/daily-writing-habit/){:target="_blank"}. 
+These habit building techniques are incredibly valuable.
 {: .text-justify}
 
 3. *Give your project a huge kickstart creating it in one day*
-You can also find a short-term time window where you create the first version of it. The Minimal Viable Product of your project in just one day - in just one session: The Code Sprint
+You can also find a short-term time window where you create the first version of it. The Minimal Viable Product of your project in just one day - in just one session: The Code Sprint.
 {: .text-justify}
 
-In this post, I want first to show you, how I came to do a Code Sprint. After that, you will find a Code Sprint template for your next awesome project. In the end, I will show an example of how I called a new pretty useful project into life: [la maREPOsa](https://github.com/RichStone/mareposa){:target="_blank"}.
+In this post, I want first to show you, how I came to do a Code Sprint. 
+After that, you will find a Code Sprint template for your next awesome project. 
+In the end, I will show an example of how I called a new pretty useful project into life: [la maREPOsa](https://github.com/RichStone/mareposa){:target="_blank"}.
 {: .text-justify}
 
 If you don’t care about long stories and want to get into it immediately, just scroll to the bottom where you will find a checklist to get you started.
