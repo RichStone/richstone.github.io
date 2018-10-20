@@ -1,11 +1,16 @@
 ---
-title: "Git is just a Game - A Simple Tutorial Explanation Analogy - LEVEL 0"
+title: "Git is just a Game - LEVEL 0: Introduction"
 layout: single
 permalink: /blog/git-simple-tutorial-explanation-LEVEL-0/
 date: 2018-10-18
+header:
+  teaser: /assets/images/posts/gamification-git.jpg
+  image: /assets/images/posts/gamification-git.jpg
 ---
 
-This blog series is an attempt to explain git and GitHub with an analogy to games. It can also be used as a walkthrough tutorial for total beginners. 
+This blog series is an attempt to explain git and GitHub with an analogy to games. We gamify a git tutorial here so to say.
+This particular post can also be used as a full walkthrough for total beginners to get started with git.
+{: .text-justify}
 
 Some abstract concepts are often difficult to grasp and git has a lot of them. A good analogy can help to understand, to make connections, to demystify and to memorize those concepts.
 {: .text-justify}
@@ -51,7 +56,7 @@ So, without further ado, game on!
 
 ## Perequisites
 - You have never worked with git before or you still don’t get it
-- You know where to find your computer’s command line / terminal and you want to use it during this tutorial (I won’t use any third party graphical interfaces here)
+- You know where to find your computer’s command line / terminal and you want to use it during this tutorial (I won’t use any third party graphical interfaces here today)
 - You have git installed, for example from [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git){:target="_blank”}
 - If you are a total beginner Windows user, please use GitBash as your command line that will be installed with the git installation
 
@@ -243,3 +248,5 @@ ___
 Please reach out, if something is unclear. Others might have the exact same question to!
 
 Any feedback and ideas for future posts are highly appreciated. And also if you share this article because you found it useful 🚀
+
+{% include mail-chimp.html %}
