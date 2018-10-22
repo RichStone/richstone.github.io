@@ -4,12 +4,14 @@ title:  "Agile Transformation for Data Teams"
 date:   2018-10-14
 categories: 
     - methodologies
+    - events
 tags:
     - data-science
     - data-engineering
     - big-data
     - agile
     - scrum
+    - goto
 permalink: /blog/2018-10-14-agile-transformation-for-data-teams/
 header:
   teaser: /assets/images/posts/agile.png
