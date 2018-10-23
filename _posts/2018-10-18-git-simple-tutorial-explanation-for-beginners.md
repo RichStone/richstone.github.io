@@ -1,7 +1,6 @@
 ---
 title: "Git is just a Game - LEVEL 0: Introduction"
 toc: true
-toc_sticky: true
 layout: single
 permalink: /blog/git-simple-tutorial-explanation-LEVEL-0/
 date: 2018-10-18

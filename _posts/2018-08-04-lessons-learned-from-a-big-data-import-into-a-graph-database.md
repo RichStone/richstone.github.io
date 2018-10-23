@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Lessons Learned from a Big Data Import into a Graph Database"
+toc: true
 date:   2018-08-04
 categories: lessons-learned
 tags: 

@@ -2,7 +2,6 @@
 layout: single
 title:  "Python Big Data Tricks"
 toc: true
-toc_sticky: true
 date:   2018-09-15
 categories: 
     - tutorials
