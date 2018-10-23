@@ -1,5 +1,7 @@
 ---
 title: "Git is just a Game - LEVEL 0: Introduction"
+toc: true
+toc_sticky: true
 layout: single
 permalink: /blog/git-simple-tutorial-explanation-LEVEL-0/
 date: 2018-10-18
@@ -209,20 +211,20 @@ It's time to get public.
 - fight merge conflict monsters 👻
 - a visual comparison of git branches
 
-### LEVEL 4 - Simple git workflows
-- lone wanderer workflow - your private projects
+### LEVEL 4 - Git Workflows and Habits
+- **lone wanderer workflow** - for your private projects
 
 <figure class="half">
     <a href="/assets/images/topics/fallout/Fo4_Lone_Wanderer.png"><img src="/assets/images/topics/fallout/Fo4_Lone_Wanderer.png"></a>
 </figure>
 
-- Simple and Naïve Workflow - small and manageable projects
+- **Simple and Naïve Workflow** - small and manageable projects
 
 <figure class="half">
     <a href="/assets/images/topics/fallout/Fo4_Animal_Friend.png"><img src="/assets/images/topics/fallout/Fo4_Animal_Friend.png"></a>
 </figure>
 
-- Simple but Controlled Workflow - bigger projects
+- **Simple but Controlled Workflow** - bigger projects
 
 <figure class="half">
     <a href="/assets/images/topics/fallout/Fo4_Nuclear_Physicist.png"><img src="/assets/images/topics/fallout/Fo4_Nuclear_Physicist.png"></a>

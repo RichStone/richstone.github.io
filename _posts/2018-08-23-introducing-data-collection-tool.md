@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "A Legal Data Collection Tool For Your Next Big Data Dump"
+toc: true
 date:   2018-08-30
 categories: tools
 tags: code-metrics

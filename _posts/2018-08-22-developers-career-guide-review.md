@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Biggest Takeaways and Data Goodies from The Software Developer's Complete Career Guide"
+toc: true
 date:   2018-08-26
 categories: books
 tags: review

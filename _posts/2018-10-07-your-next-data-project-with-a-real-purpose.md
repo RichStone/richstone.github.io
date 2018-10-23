@@ -1,6 +1,8 @@
 ---
 layout: single
 title:  "Start Your Next Data Project With a Real Purpose"
+toc: true
+toc_sticky: true
 date:   2018-10-07
 categories: 
     - projects

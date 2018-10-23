@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Agile Transformation for Data Teams"
+toc: true
 date:   2018-10-14
 categories: 
     - methodologies

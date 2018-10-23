@@ -1,5 +1,7 @@
 ---
 title: "Code Sprint"
+toc: true
+toc_sticky: true
 layout: single
 permalink: /blog/code-sprint/
 date: 2018-10-20

@@ -23,7 +23,7 @@ Our project started all easy going. I wrote the python code to collect the 928 X
 {: .text-justify}
 > "Get yourself a hard drive, bro.."
 
-![test](/assets/images/posts/rise-and-fall/film1720-norman-1.gif)
+![norman surprised](/assets/images/posts/rise-and-fall/film1720-norman-1.gif)
 
 Ok, driving on. By the time the pubmed dump got downloaded and unzipped on my new shiny hard drive, I had my first import script ready. I was very excited to finally get this thing going. The first file was imported in a matter of a few minutes. 
 {: .text-justify}
@@ -33,7 +33,7 @@ Great! 🎉
 Just let it run overnight and let the computer do the work for you while you are sleeping. Isn’t that what all importers dream about? After a few hours of sleep, all excited about my new fresh database, I saw that ten files were done. This got me thinking of course, but I hoped that Mr. Maccie MacBook or rather the database was just exhausted from its prior work and hung up at some point. So I wrote some time tracking code and started it over again. When I was back home in the evening, I understood that my import times exploded exponentially after a few imported files. My fancy import code using an ORM would take years to finish!
 {: .text-justify}
 
-![test](/assets/images/posts/rise-and-fall/041417gere005.jpg)
+![norman surprised](/assets/images/posts/rise-and-fall/041417gere005.jpg)
 
 ## The Ongoing 
 So I dove deeply into research. Reading articles. Exploring tutorials. Writing questions and posts. And of course trying things out. During this time we had an interesting threesome: I was a slave of my laptop always having him with me and waiting for an import error at XML file number 563 or whichever. Lappy, on the other hand, was a slave of the hard drive, where all the dump files where. Together we built an unseparable blockchain at day and at night. I dreamed of sheeps and imports. 
@@ -43,7 +43,7 @@ To keep my mac importing all the time I shuffled nasty apps into it like Coffein
 {: .text-justify}
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/rise-and-fall/posts/slaves.jpg" alt="">
+  <img src="/assets/images/posts/rise-and-fall/slaves.jpg" alt="">
   <figcaption>You never pause as a big data importer O.O </figcaption>
 </figure>
 
