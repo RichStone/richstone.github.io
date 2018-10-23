@@ -3,11 +3,11 @@ main:
   url: /
 - title: "About"
   url: /about/
+- title: "Tools"
+  url: /tools/
 - title: "Books"
   url: /books/
 - title: "Events"
   url: /events/
-- title: "Tools"
-  url: /tools/
 - title: "Math"
   url: /math/
