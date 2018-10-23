@@ -9,7 +9,18 @@ header:
   overlay_image: /assets/images/tools/physical-tools.jpg
 excerpt: "Every now and then a datagoodie tool is crafted here ready to be used."
 
-feature_row:
+
+mareposa:
+  - image_path: /assets/images/tools/mareposa-header.jpg
+    alt: "mareposa banner"
+    title: "la maREPOsa"
+    excerpt: "la maREPOsa automates the creation of your remote GitHub & local git repositories, .gitignore and README.md files in just one single line of code."
+    url: "https://github.com/RichStone/mareposa"
+    btn_label: "Get it now"
+    btn_class: "btn--success"
+    
+    
+download_tool:
   - image_path: /assets/images/tools/icon-download.svg
     alt: "Data Collection"
     title: "Simple Data Collection Tool"
@@ -19,7 +30,10 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-## Hot Datagoodie Tools
-{% include feature_row id="feature_row" type="left" %}
+## Hot { datagoodie } Tools
+
+{% include feature_row id="mareposa" type="left" %}
+
+{% include feature_row id="download_tool" type="right" %}
 
 {% include mail-chimp.html %}
