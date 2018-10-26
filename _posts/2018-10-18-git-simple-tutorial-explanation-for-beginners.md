@@ -9,7 +9,7 @@ header:
   image: /assets/images/posts/gamification-git.jpg
 ---
 
-This blog series is an attempt to explain git and GitHub with an analogy to games. We gamify a git tutorial here so to say.
+This blog series is an attempt to explain git and GitHub using an analogy to games. We gamify a git tutorial here so to say.
 This particular post can also be used as a full walkthrough for total beginners to get started with git.
 {: .text-justify}
 
