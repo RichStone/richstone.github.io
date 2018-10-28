@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Conferences and Meet-Ups to Transform Your Thinking Permanently"
+title:  "Transform Yourself by Community"
 date:   2018-09-12
 categories: events
 tags:
@@ -49,10 +49,7 @@ This, apparently, is such a hot 🔥🔥🔥 buzzword-combination, that there is
 
 These are great insights into the industry and into current trends if you ask me.
 So, my final word:
-Just GOTO amazing, high-quality conferences as well as meet-ups. Thus, you can be a part of a great community and give it a chance to transform you as a developer and as a person. Let me know if I can meet you somewhere there. [My next GOTO meetup](https://www.meetup.com/de-DE/GOTO-Nights-Berlin/events/254552617/){:target=“_blank”}
- will be on the 10th of September, so see you there!
-If you are more into technical tweaks and tricks, I am also planning to attend the next PyData, Python Usergroup Berlin and a [Git/GitHub for Beginners Workshop](https://www.facebook.com/events/539269453179219/)){:target=“_blank”}
- (as a teacher)
+Just GOTO amazing, high-quality conferences as well as meet-ups.
 {: .text-justify}
 
 {% include mail-chimp.html %}
