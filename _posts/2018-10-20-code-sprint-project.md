@@ -4,6 +4,10 @@ toc: true
 layout: single
 permalink: /blog/code-sprint/
 date: 2018-10-20
+categories: 
+    - frameworks
+tags:
+    - code-sprint
 header:
   teaser: /assets/images/posts/code-sprint/animal-sprint.jpg
   image: /assets/images/posts/code-sprint/animal-sprint.jpg

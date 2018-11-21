@@ -4,6 +4,10 @@ toc: true
 layout: single
 permalink: /blog/git-simple-tutorial-explanation-LEVEL-4/
 date: 2018-10-26
+categories: 
+    - tutorials
+tags:
+    - git
 header:
   teaser: /assets/images/posts/gamification-git.jpg
   image: /assets/images/posts/gamification-git.jpg

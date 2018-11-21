@@ -4,6 +4,11 @@ toc: true
 layout: single
 permalink: /blog/digital-off-time/
 date: 2018-11-04
+categories: 
+    - frameworks
+tags:
+    - digital-detox
+    - time-management
 header:
   teaser: /assets/images/posts/off-timer/off-timer.jpg
   image: /assets/images/posts/off-timer/off-timer.jpg
