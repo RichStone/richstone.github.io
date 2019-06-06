@@ -1,5 +1,5 @@
 main:
+- title: "Blog"
+  url: /
 - title: "My Offer"
   url: /about/
-- title: "Blog"
-url: /
