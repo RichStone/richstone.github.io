@@ -1,4 +1,5 @@
 ---
+published: false
 title: "Events"
 layout: splash
 permalink: /events/

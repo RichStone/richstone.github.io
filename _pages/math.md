@@ -1,4 +1,5 @@
 ---
+published: false
 title       :   "Complex Math For Data Science - Simply Explained"
 layout      :   single
 toc         :   true

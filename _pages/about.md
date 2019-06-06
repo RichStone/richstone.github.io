@@ -2,18 +2,16 @@
 permalink: /about/
 ---
 
-At datagoodie we want to share our excitement about data and to celebrate data that is used for a meaningful purpose!
+I am currently looking for ways to make life easier with cloud computing at <a href="https://gocloudgreen.com">`cloudgreen.com`</a>. 
+Let me know if you think about cloudifiyng anything, I might have some ideas or tips:  
 
-Just browse the site or choose from our specialities:
-- <a href="/blog/2018-10-07-your-next-data-project-with-a-real-purpose.md/">`How to start your next project with a purpose`</a>
-- <a href="/tags/data-engineering/">`Data Engineering`</a>
-- <a href="/tags/big-data/">`Big Data`</a>
-- <a href="/tags/python/">`Python`</a>
-- <a href="/tags/tdd/">`Test Driven Development`</a>
-- <a href="/tags/data-science/">`Data Science`</a>
+<a href="https://gocloudgreen.com/" target="_blank"><img src="/assets/images/logos/logo-with-sun@2x.png" alt="cloudgreen sun logo" width="40%"></a>
 
+Also, hit me up if you are interested in any of the following services:
 
-Feel free to get in touch if you have any questions or comments and enjoy the bits and bytes provided here :) And of course don’t forget to join the newsletter:
-{: .text-justify}
+- Website and application development
+- Backend development (Python, NodeJS, Java)
+- Software engineering workshops for beginners
+- Technical and tech event writing
 
 {% include mail-chimp.html %}
