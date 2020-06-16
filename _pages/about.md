@@ -2,16 +2,14 @@
 permalink: /about/
 ---
 
-I am currently looking for ways to make life easier with cloud computing at <a href="https://gocloudgreen.com">`cloudgreen.com`</a>. 
-Let me know if you think about cloudifiyng anything, I might have some ideas or tips:  
+Currently summoning the <a href="https://fullstack.coach">`FullStack.coach`</a> and 
 
-<a href="https://gocloudgreen.com/" target="_blank"><img src="/assets/images/logos/logo-with-sun@2x.png" alt="cloudgreen sun logo" width="40%"></a>
+<a href="https://fullstack.coach"><img src="https://agile-coast-76830.herokuapp.com/assets/fsc-logo-0dfec86521659bf8988711d7c945231ce52d9ee240bf84c396969146d7996898.svg" alt="fullstack.coach logo" width="40%"></a>
 
-Also, hit me up if you are interested in any of the following services:
+Topics & Content there:
 
-- Website and application development
-- Backend development (Python, NodeJS, Java)
-- Software engineering workshops for beginners
-- Technical and tech event writing
+- Building Awesome Products 
+- Full Stack Engineer Career & Mindset
+- Mastermind group of tech coaches and full stack mentors
 
 {% include mail-chimp.html %}
